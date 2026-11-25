@@ -1,0 +1,15 @@
+{
+  "name": "build-a-prime-number-checker-module",
+  "version": "1.0.0",
+  "description": "This package exports a function that returns if a number is prime",
+  "keywords": [
+    "prime"
+  ],
+  "license": "MIT",
+  "author": "Dann",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js"
+  }
+}
